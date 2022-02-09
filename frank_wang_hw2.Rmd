@@ -26,7 +26,7 @@ library(tidyverse)
     
     c. Write down a list with at least 3 tips of how to make working with git/github easier  
     
-        1. Keep track of what you are doing
+        1. Double check before merging
         2. Get a cheat sheet
         3. always go back and check the history 
 
